@@ -10,6 +10,9 @@ public class Hello {
         String userAge;
         String userHome;
 
+
+	// WOWOWOWOWOWOWWOWWOOOWOOOWOOWOW
+
         // Automated conversation
         System.out.print("Hello. What is your name?");
         userName = scan.next();
